@@ -59,11 +59,11 @@ npm install
 npm run dev
 Then open http://localhost:5173 in your browser 🎧
 ```
-##🖼️ Preview
+## 🖼️ Preview
 
 (You can replace this with your own screenshot later.)
 
-##🧍‍♂️ Author
+## 🧍‍♂️ Author
 Dhruv Chitkara
 
 Hi! I’m a student who loves building creative web tools that make studying and productivity fun.
@@ -72,7 +72,7 @@ Every line of code here was written while vibing to lofi and coffee ☕.
 
 “You get what you work for, not what you wish for.”
 
-##📜 License
+## 📜 License
 This project is open-source under the MIT License.
 You’re free to use, modify, and share it — just credit the original author (that’s me 😄).
 
