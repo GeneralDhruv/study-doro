@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './'   // <-- important so built assets have relative paths
+  base: '/study-doro/', // IMPORTANT since it’s served under /study-doro
 })
