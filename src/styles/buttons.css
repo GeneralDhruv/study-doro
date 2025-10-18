@@ -1,0 +1,30 @@
+.controls {
+    display:flex;
+    gap:10px;
+    align-items:center;
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  
+  .btn{
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.06);
+    padding: 10px 14px;
+    border-radius: 12px;
+    color:#fff;
+    cursor:pointer;
+    font-size:13px;
+    font-weight:700;
+    transition: transform .08s ease;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+  }
+  
+  .btn:active{ transform: translateY(1px) scale(.995) }
+  
+  .btn.primary{
+    background: linear-gradient(180deg, var(--accent), var(--accent-2));
+    border:none;
+    padding:12px 18px;
+    border-radius: 18px;
+  }
+  
